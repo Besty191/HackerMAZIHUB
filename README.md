@@ -1,3 +1,6 @@
+local env = getsenv(game.Players.LocalPlayer.PlayerGui.GUI.Client)
+
+
 while wait() do
    env.ammocount = 420
    env.ammocount2 = 420
